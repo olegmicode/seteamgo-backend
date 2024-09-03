@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+# If using npm
+package-lock.json
+# If using yarn
+yarn.lock
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*
